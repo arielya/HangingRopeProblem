@@ -1,8 +1,8 @@
+# Helicopter Rope Riddle
+
 <figure>
   <img src="https://github.com/arielya/HangingRopeProblem/blob/main/images/SolvingVeritasiumsHelicopterDebate.png" alt=".." title="Optional title" />
 </figure>
-
-# Helicopter Rope Riddle
 
 This repository was made after waching the YouTube video from [Dr. Derek Muller of Veritasium](https://www.youtube.com/watch?v=q-_7y0WUnW4) about a question the qualifying exam for the 2014 US Physics Olympiad team. The question was: How does a uniform cable beneath a helicopter hang? A, B, or C may seem like a straightforward question, but the answer isn’t quite so obvious.
 
